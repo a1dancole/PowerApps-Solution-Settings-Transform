@@ -1,10 +1,10 @@
 {
     "manifestVersion": 1,
     "id": "past",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "name": "PowerApps Solution Settings Transform",
     "publisher": "AidanCole",
-    "public": false,
+    "public": true,
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
@@ -30,8 +30,7 @@
         "default": "assets/logo.png"
     },
     "branding": {
-        "color": "rgb(116, 39, 116)",
-        "theme": "dark"
+        "color": "rgb(198, 198, 198)"
     },
     "links": {
         "support": {
